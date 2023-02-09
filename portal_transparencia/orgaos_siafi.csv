@@ -1,0 +1,593 @@
+index,codigo,descricao
+0,01000,Câmara dos Deputados - Unidades com vínculo direto
+1,01901,Fundo Rotativo da Câmara dos Deputados 
+2,02000,Senado Federal - Unidades com vínculo direto
+3,02001,Fundo Especial do Senado Federal
+4,02002,Senado Federal/ FUNSEEP
+5,02003,Fundo da Secretaria Especial de Informática
+6,03000,Tribunal de Contas da União - Unidades com vínculo direto
+7,10000,Supremo Tribunal Federal - Unidades com vínculo direto
+8,11000,Superior Tribunal de Justiça - Unidades com vínculo direto
+9,12000,Justiça Federal - Unidades com vínculo direto
+10,12800,Justiça Federal
+11,12801,Tribunal Regional Federal - 1ª Região
+12,12802,Tribunal Regional Federal - 2ª Região
+13,12803,Tribunal Regional Federal - 3ª Região
+14,12804,Tribunal Regional Federal - 4ª Região
+0,12805,Tribunal Regional Federal - 5ª Região
+1,13000,Justiça Militar - Unidades com vínculo direto
+2,14000,Justiça Eleitoral - Unidades com vínculo direto
+3,14001,Fundo Especial de Assistência Financeira aos Partidos Políticos
+4,15000,Justiça do Trabalho - Unidades com vínculo direto
+5,16000,Justiça do Distrito Federal e Territórios  - Unidades com vínculo direto
+6,17000,Conselho Nacional de Justiça - Unidades com vínculo direto
+7,20000,Presidência da República - Unidades com vínculo direto
+8,20101,Presidência da República
+9,20102,Gabinete da Vice-Presidência da República
+10,20103,Ministério da Administração Federal e Reforma do Estado - em extinção - Unidades com vínculo direto
+11,20104,Secretaria de Assuntos Estratégicos
+12,20105,Ministério da Defesa - Unidades com vínculo direto
+13,20113,"Ministério do Planejamento, Desenvolvimento e Gestão - Unidades com vínculo direto"
+14,20114,Advocacia-Geral da União - Unidades com vínculo direto
+0,20115,Fundo Nacional para a Criança e o Adolescente
+1,20116,Fundo de Imprensa Nacional
+2,20117,Fundo Nacional Antidrogas
+3,20122,Secretaria Nacional de Políticas para Mulheres 
+4,20124,Secretaria Especial de Aqüicultura e Pesca 
+5,20125,Controladoria-Geral da União
+6,20129,Secretaria Especial de Agricultura Familiar e do Desenvolvimento Agrário 
+7,20202,Fundação Escola Nacional de Administração Pública
+8,20203,Agência Nacional do Cinema
+9,20213,Empresa Brasileira de Infraestrutura Aeroportuária 
+10,20214,Agência Nacional de Aviação Civil
+11,20301,Comissão Nacional de Energia Nuclear
+12,20302,Nuclebrás Equipamentos Pesados S.A.
+13,20303,Indústrias Nucleares do Brasil
+14,20402,Agência Espacial Brasileira
+0,20403,Fundação Casa de Rui Barbosa
+1,20404,Fundação Biblioteca Nacional
+2,20407,Fundação do Cinema Brasileiro
+3,20408,Fundação Cultural Palmares
+4,20410,Fundação Nacional Pró-Leitura 
+5,20411,Instituto do Patrimônio Histórico e Artístico Nacional
+6,20412,Fundação Nacional de Artes
+7,20415,Empresa Brasil de Comunicação
+8,20501,Conselho Nacional de Desenvolvimento Científico e Tecnológico
+9,20502,Financiadora de Estudos e Projetos
+10,20503,Fundação Centro Tecnológico para Informática
+11,20601,Superintendência do Desenvolvimento do Nordeste
+12,20602,Superintendência do Desenvolvimento da Amazônia
+13,20603,Superintendência da Zona Franca de Manaus
+14,20604,Instituto Brasileiro de Turismo
+0,20605,Companhia de Desenvolvimento de Barcarena
+1,20701,Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis
+2,20801,Secretaria de Patrimônio da União
+3,20802,"Subsecretaria de Planejamento, Orçamento e Administração/MP "
+4,20803,Secretaria de Administração
+5,20924,Fundo Nacional de Desenvolvimento  
+6,20929,Fundo Nacional do Idoso
+7,22000,"Ministério da Agricultura, Pecuária e Abastecimento - Unidades com vínculo direto"
+8,22201,Instituto Nacional de Colonização e Reforma Agrária
+9,22202,Empresa Brasileira de Pesquisa Agropecuária
+10,22203,Companhia de Desenvolvimento dos Vales do São Francisco e do Parnaíba
+11,22204,Departamento Nacional de Obras Contra as Secas
+12,22207,Companhia de Colonização do Nordeste
+13,22211,Companhia Nacional de Abastecimento
+14,22500,Companhia de Entrepostos e Armazéns Gerais de São Paulo
+0,22801,Comissão Executiva do Plano da Lavoura Cacaueira
+1,22802,Instituto Nacional de Meteorologia
+2,22803,Secretaria Nacional de Defesa Agropecuária
+3,22804,"Subsecretaria de Planejamento, Orçamento e Administração/MAPA"
+4,22805,Fundo Geral do Cacau
+5,22806,Secretaria de Desenvolvimento Agropecuário e Cooperativismo
+6,22905,Fundo de Defesa da Economia Cafeeira
+7,23000,Ministério do Bem Estar Social - em extinção - Unidades com vínculo direto
+8,23201,Fundação Centro Brasileira da Infância e Adolescência - em extinção
+9,23202,Fundação Legião Brasileira de Assistência
+10,24000,"Ministério da Ciência, Tecnologia, Inovações e Comunicações - Unidades com vínculo direto"
+11,24208,Instituto Nacional de Tecnologia da Informação
+12,24209,Centro Nacional de Tecnologia Eletrônica Avançada S.A.
+13,24216,TELECOMUNICACOES BRASILEIRAS S/A
+14,24801,Instituto Nacional de Pesquisas Espaciais
+0,24802,"Subsecretaria de Planejamento, Orçamento e Administração/MCT"
+1,24803,Financiadora de Estudos e Projetos
+2,24901,Fundo Nacional de Desenvolvimento Científico e Tecnológico
+3,25000,Ministério da Economia - Unidades com vínculo direto
+4,25001,Fundo Especial de Desenvolvimento e Aperfeiçoamento das Atividades de Fiscalização
+5,25002,Fundo Especial de Treinamento e Desenvolvimento 
+6,25201,Banco Central do Brasil - Orçamento Fiscal e Seguridade Social - Unidades com vínculo direto
+7,25202,Banco da Amazônia 
+8,25203,Comissão de Valores Mobiliários
+9,25205,Fundação Instituto Brasileiro de Geografia e Estatística
+10,25206,Instituto de Pesquisa Econômica Aplicada
+11,25207,Serviço Federal de Processamento de Dados
+12,25208,Superintendência de Seguros Privados
+13,25209,Superintendência Nacional do Abastecimento
+14,25211,Casa da Moeda do Brasil
+0,25220,Caixa Econômica Federal
+1,25280,Banco Central do Brasil
+2,25281,Banco do Brasil S.A.
+3,25282,Banco do Nordeste do Brasil
+4,25289,Agência Brasileira Gestora de Fundos Garantidores e Garantias S.A.
+5,25301,Empresa Gestora de Ativos 
+6,25801,Receita Federal do Brasil
+7,25802,Escola de Administração Fazendária
+8,25803,Procuradoria-Geral da Fazenda Nacional
+9,25804,"Subsecretaria de Planejamento, Orçamento e Administração/MF"
+10,25805,Secretaria do Tesouro Nacional
+11,25806,Secretaria de Acompanhamento Econômico
+12,25901,Fundo de Compensação de Variações Salariais 
+13,25902,Fundo de Investimentos do Nordeste
+14,25903,Fundo de Investimentos da Amazônia
+0,25904,Fundo de Estabilidade do Seguro Rural
+1,25905,Fundo de Apoio ao Desenvolvimento Social
+2,25907,Fundo Constitucional de Financiamento do Norte - Integração
+3,25908,Fundo Constitucional de Financiamento do Centro-Oeste - Integração
+4,25910,Fundo Constitucional de Financiamento do Nordeste - Integração
+5,25914,Fundo de Garantia à Exportação
+6,25915,Fundo Constitucional do Distrito Federal
+7,25916,Fundo Contingente da Extinta RFFSA-FCMP
+8,25917,Fundo para Pagamento de Prestações no caso de Perda de Renda por Desemprego e Invalidez Temporária
+9,26000,Ministério da Educação - Unidades com vínculo direto
+10,26101,Fundo de Financiamento ao Estudante do Ensino Superior
+11,26201,Colégio Pedro II
+12,26202,Centro Federal de Educação Tecnológica de Alagoas
+13,26203,Centro Federal de Educação Tecnológica do Amazonas
+14,26204,Escola Técnica Federal da Bahia 
+0,26205,Centro Federal de Educação Tecnológica de Campos
+1,26206,Centro Federal de Educação Tecnológica do Ceará
+2,26207,Centro Federal de Educação Tecnológica do Espírito Santo
+3,26208,Centro Federal de Educação Tecnológica de Goiás
+4,26209,Centro Federal de Educação Tecnológica do Maranhão
+5,26210,Centro Federal de Educação Tecnológica do Mato Grosso
+6,26211,Centro Federal de Educação Tecnológica de Ouro Preto 
+7,26212,Centro Federal de Educação Tecnológica do Pará
+8,26213,Centro Federal de Educação Tecnológica da Paraíba
+9,26214,Centro Federal de Educação Tecnológica Pelotas
+10,26215,Centro Federal de Educação Tecnológica de Pernambuco
+11,26216,Centro Federal de Educação Tecnologica do Piaui 
+12,26217,Centro Federal de Educação Tecnológica de Química - Nilópolis RJ
+13,26218,Centro Federal de Educação Tecnológica do Rio Grande do Norte
+14,26219,Centro Federal de Educação Tecnológica de Santa Catarina
+0,26220,Centro Federal de Educação Tecnológica de São Paulo 
+1,26221,Centro Federal de Educação Tecnológica de Sergipe
+2,26222,Centro Federal de Educação Tencológica de Roraima
+3,26223,Escola Técnica Federal de Palmas 
+4,26224,Escola Técnica Federal de Rondônia
+5,26230,Fundação Universidade Federal do Vale do São Francisco
+6,26231,Universidade Federal de Alagoas
+7,26232,Universidade Federal da Bahia
+8,26233,Universidade Federal do Ceará
+9,26234,Universidade Federal do Espírito Santo
+10,26235,Universidade Federal de Goiás
+11,26236,Universidade Federal Fluminense
+12,26237,Universidade Federal de Juiz de Fora
+13,26238,Universidade Federal de Minas Gerais
+14,26239,Universidade Federal do Pará
+0,26240,Universidade Federal da Paraíba
+1,26241,Universidade Federal do Paraná
+2,26242,Universidade Federal de Pernambuco 
+3,26243,Universidade Federal do Rio Grande do Norte
+4,26244,Universidade Federal do Rio Grande do Sul
+5,26245,Universidade Federal do Rio de Janeiro
+6,26246,Universidade Federal de Santa Catarina
+7,26247,Universidade Federal de Santa Maria
+8,26248,Universidade Federal Rural de Pernambuco
+9,26249,Universidade Federal Rural do Rio de Janeiro 
+10,26250,Universidade Federal de Roraima 
+11,26251,Fundação Universidade Federal do Tocantins
+12,26252,Universidade Federal de Campina Grande
+13,26253,Universidade Federal Rural da Amazônia
+14,26254,Universidade Federal do Triângulo Mineiro
+0,26255,Universidade Federal dos Vales do Jequitinhonha e Mucuri
+1,26256,Centro Federal de Educação Tecnológica Celso Suckow da Fonseca
+2,26257,Centro Federal de Educação Tecnológica de Minas Gerais
+3,26258,Universidade Tecnológica Federal do Paraná 
+4,26259,Centro Federal de Educação Tecnológica da Bahia
+5,26260,Universidade Federal de Alfenas 
+6,26261,Universidade Federal de Itajubá
+7,26262,Universidade Federal de São Paulo
+8,26263,Universidade Federal de Lavras 
+9,26264,Universidade Federal Rural do Semi-Árido
+10,26266,Fundação Universidade Federal do Pampa
+11,26267,Universidade Federal da Integração Latino-Americana
+12,26268,Fundação Universidade Federal de Rondônia
+13,26269,Universidade Federal do Estado do Rio de Janeiro
+14,26270,Fundação Universidade do Amazonas
+0,26271,Fundação Universidade de Brasília
+1,26272,Fundação Universidade do Maranhão
+2,26273,Universidade Federal do Rio Grande
+3,26274,Fundação Universidade Federal de Uberlândia 
+4,26275,Fundação Universidade Federal do Acre
+5,26276,Fundação Universidade Federal do Mato Grosso
+6,26277,Universidade Federal de Ouro Preto
+7,26278,Fundação Universidade Federal de Pelotas
+8,26279,Fundação Universidade Federal do Piauí
+9,26280,Fundação Universidade Federal de São Carlos
+10,26281,Fundação Universidade Federal de Sergipe
+11,26282,Universidade Federal de Viçosa
+12,26283,Fundação Universidade Federal do Mato Grosso do Sul
+13,26284,Fundação Universidade Federal de Ciências da Saúde de Porto Alegre
+14,26285,Fundação Universidade Federal de São João Del-Rei
+0,26286,Fundação Universidade Federal do Amapá
+1,26287,Escola Agrotécnica Federal de Marabá
+2,26288,Escola Agrotécnica Federal de Nova Andradina
+3,26289,Escola Agrotécnica Federal de São Raimundo das Mangabeiras
+4,26290,Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira
+5,26291,Fundação Coordenação de Aperfeiçoamento de Pessoal de Nível Superior
+6,26292,Fundação Joaquim Nabuco
+7,26293,Fundação Roquette Pinto - em extinção
+8,26294,Hospital de Clínicas de Porto Alegre
+9,26295,Instituto Nacional de Desenvolvimento do Desporto
+10,26298,Fundo Nacional de Desenvolvimento da Educação
+11,26301,Centro Federal de Educação Tecnológica da Bahia
+12,26302,Escola Agrotécnica Federal de Alegre 
+13,26303,Escola Agrotécnica Federal de Alegrete
+14,26304,Escola Agrotécnica Federal de Araguatins
+0,26305,Centro Federal de Educação Tecnológica de Bambuí
+1,26306,Escola Agrotécnica Federal de Barbacena
+2,26307,Escola Agrotécnica Federal de Barreiros
+3,26308,Escola Agrotécnica Federal de Belo Jardim
+4,26309,Centro Federal de Educação Tecnológica de Bento Gonçalves
+5,26310,Escola Agrotécnica Federal de Cáceres
+6,26311,Escola Agrotécnica Federal de Castanhal
+7,26312,Escola Agrotécnica Federal de Catu
+8,26313,Escola Agrotécnica Federal de Colatina
+9,26314,Escola Agrotécnica Federal de Concórdia
+10,26315,Escola Agrotécnica Federal de Crato
+11,26316,Centro Federal de Educação Tecnológica de Cuiabá
+12,26317,Escola Agrotécnica Federal de Iguatu
+13,26318,Escola Agrotécnica Federal de Inconfidentes
+14,26319,Centro Federal de Educação Tecnológica de Januária
+0,26320,Escola Agrotécnica Federal de Machado
+1,26321,Escola Agrotécnica Federal de Manaus
+2,26322,Escola Agrotécnica Federal de Muzambinho
+3,26323,Centro Federal de Educação Tecnológica de Petrolina
+4,26324,Centro Federal de Educação Tecnológica de Rio Pomba
+5,26325,Centro Federal de Educação Tecnológica de Rio Verde
+6,26326,Escola Agrotécnica Federal de Salinas
+7,26327,Escola Agrotécnica Federal de Santa Teresa
+8,26328,Escola Agrotécnica Federal de São Cristóvão
+9,26329,Escola Agrotécnica Federal de São João Evangelista
+10,26330,Escola Agrotécnica Federal de São Luis
+11,26331,Centro Federal de Educação Tecnológica de São Vicente do Sul 
+12,26332,Escola Agrotécnica Federal de Satuba
+13,26333,Escola Agrotécnica Federal de Sertão
+14,26334,Escola Agrotécnica Federal de Sousa
+0,26335,Centro Federal de Educação Tecnológica de Uberaba
+1,26336,Escola Agrotécnica Federal de Uberlândia
+2,26337,Centro Federal de Educação Tecnológica de Urutaí
+3,26338,Escola Agrotécnica Federal de Vitória de Santo Antão
+4,26339,Escola Agrotécnica Federal de São Gabriel da Cachoeira
+5,26340,Escola Agrotécnica Federal de Sombrio
+6,26341,Escola Agrotécnica Federal de Ceres
+7,26342,Escola Agrotécnica Federal de Colorado do Oeste
+8,26343,Escola Agrotécnica Federal de Codo
+9,26344,Escola Agrotécnica Federal Antônio José Teixeira
+10,26345,Escola Agrotécnica Federal de Rio do Sul
+11,26346,Escola Agrotécnica Federal de Santa Inês
+12,26347,Escola Agrotécnica Federal do Senhor do Bonfim
+13,26350,Fundação Universidade Federal da Grande Dourados
+14,26351,Universidade Federal do Recôncavo da Bahia
+0,26352,Fundação Universidade Federal do ABC
+1,26353,Escola Técnica Federal do Acre
+2,26354,Escola Técnica Federal do Amapá
+3,26355,Escola Técnica Federal do Mato Grosso do Sul
+4,26356,Instituto Federal de Brasília
+5,26357,Escola Técnica Federal de Canoas
+6,26402,Instituto Federal de Alagoas
+7,26403,Instituto Federal do Amazonas
+8,26404,Instituto Federal Baiano
+9,26405,Instituto Federal do Ceará
+10,26406,Instituto Federal do Espírito Santo
+11,26407,Instituto Federal Goiano
+12,26408,Instituto Federal do Maranhão
+13,26409,Instituto Federal de Minas Gerais
+14,26410,Instituto Federal do Norte de Minas Gerais
+0,26411,Instituto Federal do Sudeste de Minas Gerais
+1,26412,Instituto Federal do Sul de Minas Gerais
+2,26413,Instituto Federal do Triângulo Mineiro
+3,26414,Instituto Federal do Mato Grosso
+4,26415,Instituto Federal do Mato Grosso do Sul
+5,26416,Instituto Federal do Pará
+6,26417,Instituto Federal da Paraíba
+7,26418,Instituto Federal de Pernambuco
+8,26419,Instituto Federal do Rio Grande do Sul
+9,26420,Instituto Federal Farroupilha
+10,26421,Instituto Federal de Rondônia
+11,26422,Instituto Federal Catarinense
+12,26423,Instituto Federal de Sergipe
+13,26424,Instituto Federal do Tocantins
+14,26425,Instituto Federal do Acre
+0,26426,Instituto Federal do Amapá
+1,26427,Instituto Federal da Bahia
+2,26428,Instituto Federal de Brasília
+3,26429,"Instituto Federal de Educação, Ciência e Tecnologia de Goiás"
+4,26430,Instituto Federal do Sertão de Pernambuco
+5,26431,Instituto Federal do Piauí
+6,26432,Instituto Federal do Paraná
+7,26433,Instituto Federal do Rio de Janeiro
+8,26434,Instituto Federal Fluminense
+9,26435,Instituto Federal do Rio Grande do Norte
+10,26436,Instituto Federal Sul-rio-grandense
+11,26437,Instituto Federal de Roraima
+12,26438,Instituto Federal de Santa Catarina
+13,26439,Instituto Federal de São Paulo
+14,26440,Universidade Federal da Fronteira Sul
+0,26441,Universidade Federal do Oeste do Pará
+1,26442,Universidade da Integração Internacional da Lusofonia Afro-Brasileira
+2,26443,Empresa Brasileira de Serviços Hospitalares
+3,26447,Universidade Federal do Oeste da Bahia 
+4,26448,Universidade Federal do Sul e Sudeste do Pará
+5,26449,Universidade Federal do Cariri
+6,26450,Universidade Federal do Sul da Bahia
+7,26452,UNIVERSIDADE FEDERAL DE CATALAO
+8,26453,UNIVERSIDADE FEDERAL DE JATAI
+9,26454,UNIVERSIDADE FEDERAL DE RONDONOPOLIS
+10,26455,UNIVERSIDADE FEDERAL DO DELTA DO PARNAIBA
+11,26456,UNIVERSIDADE FEDERAL DO AGRESTE DE PERNAMBUCO
+12,26457,UNIVERSIDADE FEDERAL DO NORTE DE TOCANTINS
+13,26801,Secretaria de Educação Básica
+14,26802,Subsecretaria de Assuntos Administrativos/MEC
+0,27201,Fundação Habitacional do Exército
+1,28000,"Ministério da Indústria, Comércio Exterior e Serviços - Unidades com vínculo direto"
+2,28500,Fundo de Garantia para a Promoção da Competitividade
+3,28501,Fundo Nacional de Desestatização
+4,28801,"Subsecretaria de Planejamento, Orçamento e Administração/MDIC"
+5,28904,Fundo de Garantia para a Promoção da Competitividade
+6,29000,Defensoria Pública da União - Unidades com vínculo direto
+7,29201,Departamento Nacional de Estradas de Rodagem
+8,29202,Companhia de Navegação do São Francisco - em liquidação
+9,29203,Empresa Brasileira de Planejamento de Transportes - em liquidação
+10,29204,EMPRESA DE NAVEGACAO DA AMAZONIA S/A
+11,29205,Empresa de Trens Urbanos de Porto Alegre
+12,29207,Serviço de Navegação da Bacia do Prata S.A.
+13,29208,Companhia de Pesquisa de Recursos Minerais
+14,29209,"VALEC Engenharia, Construções e Ferrovias S.A."
+0,29214,Companhia Brasileira de Trens Urbanos
+1,30000,Ministério da Justiça e Segurança Pública - Unidades com vínculo direto
+2,30108,Departamento de Polícia Federal
+3,30201,Radiobrás Empresa Brasileira de Comunicação S.A.
+4,30202,Fundação Nacional do Índio
+5,30203,"Instituto Nacional de Metrologia, Qualidade e Tecnologia"
+6,30204,Instituto Nacional da Propriedade Industrial
+7,30205,Fundação Nacional do Índio - Patrimônio Indígena
+8,30211,Conselho Administrativo de Defesa Econômica
+9,30212,AUTORIDADE NACIONAL DE PROTECAO DE DADOS
+10,30801,Departamento de Polícia Federal
+11,30802,Departamento de Polícia Rodoviária Federal
+12,30803,"Subsecretaria de Planejamento, Orçamento e Administração/MJ"
+13,30905,Secretaria Nacional do Consumidor Fundo
+14,30907,Fundo Penitenciário Nacional
+0,30909,Fundo para Aparelhamento e Operacionalização das Atividades Fim da Polícia Federal
+1,30911,Fundo Nacional de Segurança Pública
+2,30912,Fundo Nacional Antidrogas
+3,30913,Fundo Nacional para a Criança e o Adolescente
+4,30914,Fundo Nacional do Idoso
+5,31280,Caixa de Construções de Casas para o Pessoal da Marinha do Brasil
+6,32000,Ministério de Minas e Energia - Unidades com vínculo direto
+7,32201,Centro de Pesquisas de Energia Elétrica
+8,32205,"Agência Nacional do Petróleo, Gás Natural e Biocombustíveis"
+9,32210,Agência Nacional de Energia Elétrica
+10,32263,Departamento Nacional de Produção Mineral
+11,32314,Empresa de Pesquisa Energética
+12,32396,Agência Nacional de Mineração
+13,32801,"Subsecretaria de Planejamento, Orçamento e Administração/MME"
+14,32802,Companhia de Pesquisa de Recursos Minerais
+0,32991,Reserva Global de Reversão/Eletrobrás
+1,32992,Conta de Desenvolvimento Energético
+2,32993,Conta Consumo de Combustíveis Fósseis 
+3,33000,Ministério da Previdência Social - Unidades com vínculo direto
+4,33206,Superintendência Nacional de Previdência Complementar
+5,33801,"Subsecretaria de Planejamento, Orçamento e Administração/MPS"
+6,34000,Ministério Público da União - Unidades com vínculo direto
+7,34801,Ministério Público Federal 
+8,34802,Ministério Público do Trabalho
+9,34902,Fundo Nacional de Cultura
+10,35000,Ministério das Relações Exteriores - Unidades com vínculo direto
+11,35201,Fundação Alexandre de Gusmão
+12,36000,Ministério da Saúde - Unidades com vínculo direto
+13,36201,Fundação Oswaldo Cruz
+14,36208,Hospital Cristo Redentor S.A. 
+0,36209,Hospital Fêmina S.A.
+1,36210,Hospital Nossa Senhora da Conceição S.A.
+2,36211,Fundação Nacional de Saúde 
+3,36212,Agência Nacional de Vigilância Sanitária
+4,36213,Agência Nacional de Saúde Suplementar
+5,37000,Controladoria-Geral da União - Unidades com vínculo direto
+6,37201,"Fundação Jorge Duprat Figueiredo, de Segurança e Medicina do Trabalho"
+7,37202,Instituto Nacional do Seguro Social 
+8,37904,Fundo do Regime Geral da Previdência Social
+9,38000,Ministério do Trabalho e Emprego - Unidades com vínculo direto
+10,38299,Rede Ferroviária Federal S.A.
+11,38500,Conselho Federal de Contabilidade 
+12,38505,Conselho Regional de Contabilidade do DF
+13,38518,Conselho Regional de Contabilidade do Rio de Janeiro
+14,38801,"Subsecretaria de Planejamento, Orçamento e Administração/MTE"
+0,38802,Secretaria de Políticas Públicas de Emprego
+1,38803,Delegacia Regional do Trabalho de São Paulo
+2,38901,Fundo de Amparo ao Trabalhador
+3,39000,Ministério da Infraestrutura - Unidades com vínculo direto
+4,39250,Agência Nacional de Transportes Terrestres
+5,39251,Agência Nacional de Transportes Aquaviários
+6,39252,Departamento Nacional de Infraestrutura de Transportes
+7,39253,Empresa de Planejamento e Logística S.A.
+8,39801,Subsecretaria de Assuntos Administrativos/MT
+9,39802,Subsecretaria de Planejamento e Orçamento/ MT
+10,39811,Companhia Docas do Rio de Janeiro
+11,39812,Companhia Docas do Estado da Bahia
+12,39813,Companhia Docas do Ceará
+13,39814,Companhia Docas do Pará
+14,39815,Companhia Docas do Rio Grande do Norte
+0,39816,Companhia Docas do Estado de São Paulo
+1,39817,Companhia Docas do Espírito Santo
+2,40000,Ministério do Trabalho - Unidades com vínculo direto
+3,41000,Ministério das Comunicações - Unidades com vínculo direto
+4,41231,Agêncial Nacional de Telecomunicações
+5,41232,Fundo de Universalização dos Serviços de Telecomunicações
+6,41233,Fundo de Fiscalização das Telecomunicações
+7,41801,"Subsecretaria de Planejamento, Orçamento e Administração/MC"
+8,41903,Fundo para o Desenvolvimento Tecnológico das Telecomunicações 
+9,42000,Ministério da Cultura - Unidades com vínculo direto
+10,42207,Instituto Brasileiro de Museus
+11,42801,Diretoria de Gestão Interna - Ministério da Cultura
+12,44000,Ministério do Meio Ambiente - Unidades com vínculo direto
+13,44204,Fundo Nacional do Meio Ambiente
+14,44205,Agência Nacional de Águas
+0,44206,Instituto de Pesquisas Jardim Botânico do Rio de Janeiro
+1,44207,Instituto Chico Mendes de Conservação da Biodiversidade
+2,44208,Serviço Florestal Brasileiro
+3,44444,Transferência Voluntária - Portal SICONV - Unidades com vínculo direto
+4,44801,"Subsecretaria de Planejamento, Orçamento e Administração do Ministério do Meio Ambiente"
+5,44902,Fundo Nacional sobre Mudança no Clima
+6,45282,Banco Nacional de Desenvolvimento Econômico e Social
+7,45283,Instituto de Resseguros do Brasil
+8,46000,MIN.DA GEST.E DA INOVACAO EM SERVICOS PUBLICO - Unidades com vínculo direto
+9,47000,MINISTERIO DO PLANEJAMENTO E ORCAMENTO - Unidades com vínculo direto
+10,47214,Autoridade Pública Olímpica
+11,48000,CODIGO VAGO - Unidades com vínculo direto
+12,49000,Ministério do Desenvolvimento Agrário - Unidades com vínculo direto
+13,49001,Fundo de Terras e da Reforma Agrária
+14,49280,Empresa Brasileira de Correios e Telégrafos
+0,49901,Departamento do Fundo da Marinha Mercante
+1,50000,Gabinete do Ministro Extraordinário de Projetos Especiais
+2,51000,Ministério do Esporte - Unidades com vínculo direto
+3,51801,"Secretaria de Planejamento, Orçamento e Administração/ME"
+4,52000,Ministério da Defesa - Unidades com vínculo direto
+5,52001,Fundo do Ministério da Defesa
+6,52002,Fundo de Administração do Hospital das Forças Armadas
+7,52003,Fundo do Serviço Militar
+8,52111,Comando da Aeronáutica
+9,52121,Comando do Exército
+10,52131,Comando da Marinha
+11,52132,Comando da Marinha - Fundo Naval
+12,52133,Fundo de Desenvolvimento do Ensino Profissional Marítimo
+13,52201,Agência Nacional de Aviação Civil
+14,52211,Caixa de Financiamento Imobiliário da Aeronáutica
+0,52212,Empresa Brasileira de Infraestrutura Aeroportuária 
+1,52221,Indústria de Material Bélico do Brasil
+2,52222,Fundação Osório
+3,52231,Empresa Gerencial de Projetos Navais
+4,52233,Amazônia Azul Tecnologia de Defesa S.A.
+5,52801,Secretaria de Organização Institucional
+6,52904,Fundo do Exército
+7,52911,Fundo Aeronáutico
+8,52912,Fundo Aeroviário
+9,53000,Ministério do Desenvolvimento Regional - Unidades com vínculo direto
+10,53202,Superintendência do Desenvolvimento da Amazônia
+11,53203,Superintendência do Desenvolvimento do Nordeste
+12,53204,Código sem efeito - pode ser reaproveitado conforme SOF
+13,53205,Agência de Desenvolvimento da Amazônia
+14,53206,Agência de Desenvolvimento do Nordeste
+0,53207,Superintendência de Desenvolvimento do Centro-Oeste
+1,53208,Fundo Constitucional de Financiamento do Norte
+2,53209,Fundo Constitucional de Financiamento do Centro-Oeste
+3,53210,Fundo Constitucional de Financiamento do Nordeste
+4,53297,Código sem efeito - pode ser reaproveitado conforme SOF
+5,53801,Departamento de Gestão Interna do Ministério da Integração Nacional
+6,53802,Departamento de Gestão de Fundos de Investimentos
+7,53901,Fundo Constitucional de Financiamento do Norte
+8,53902,Fundo Constitucional de Financiamento do Centro-Oeste
+9,53903,Fundo Constitucional de Financiamento do Nordeste
+10,53904,Fundo de Desenvolvimento da Amazônia
+11,53905,Fundo de Desenvolvimento do Nordeste
+12,54000,Ministério do Turismo - Unidades com vínculo direto
+13,54801,"Subsecretaria de Planejamento, Orçamento e Administração/MTUR"
+14,54901,Fundo Geral de Turismo
+0,55000,Ministério da Cidadania - Unidades com vínculo direto
+1,55001,Fundo Nacional de Assistência Social
+2,55801,"Secretaria de Planejamento, Orçamento e Administração/MDS"
+3,56000,Ministério das Cidades - Unidades com vínculo direto
+4,56801,"Subsecretaria de Planejamento, Orçamento e Administração/MICI"
+5,56901,Fundo Nacional de Segurança e Educação de Trânsito
+6,56902,Fundo Nacional de Habitação de Interesse Social
+7,57000,"Ministério das Mulheres, Igualdade Racial, da Juventude e dos Direitos Humanos - Unidades com víncul"
+8,57280,Empresa de Processamento de Dados da Previdência Social
+9,58000,Ministério da Pesca e Aquicultura - Unidades com vínculo direto
+10,59000,Conselho Nacional do Ministério Público - Unidades com vínculo direto
+11,60000,Gabinete da Vice-Presidência da República
+12,61000,Secretaria de Assuntos Estratégicos
+13,61201,Instituto de Pesquisa Econômica Aplicada
+14,62000,Secretaria de Aviação Civil 
+0,62201,Agência Nacional de Aviação Civil
+1,62901,Fundo Nacional de Aviação Civil
+2,63000,Advocacia-Geral da União - Unidades com vínculo direto
+3,64000,Secretaria de Direitos Humanos - Unidades com vínculo direto
+4,64901,Fundo Nacional para a Criança e o Adolescente
+5,64902,Fundo Nacional do Idoso
+6,65000,Secretaria de Políticas para as Mulheres - Unidades com vínculo direto
+7,66000,Controladoria-Geral da União
+8,67000,Secretaria de Políticas de Promoção da Igualdade Racial - Unidades com vínculo direto
+9,68000,Secretaria de Portos - Unidades com vínculo direto
+10,68201,Agência Nacional de Transportes Aquaviários
+11,69000,Secretaria da Micro e Pequena Empresa
+12,71902,Fundo Soberano do Brasil
+13,71904,Fundo de Estabilidade do Seguro Rural
+14,71905,Fundo de Garantia à Exportação
+0,74917,Fundo de Desenvolvimento da Amazônia
+1,74918,Fundo de Desenvolvimento do Nordeste
+2,74919,Fundo de Desenvolvimento do Centro-Oeste
+3,78787,TESTE
+4,80000,"Entidades em extinção, dissolução ou privatização L.8029/90 - Unidades com vínculo direto"
+5,80201,Superintendência de Desenvolvimento do Centro-Oeste
+6,80202,Superintendência do Desenvolvimento da Região Sul
+7,80203,Departamento Nacional de Obras de Saneamento
+8,80204,Instituto do Açúcar e do Álcool
+9,80208,A Empresa de Portos do Brasil S.A. - em extinção
+10,80210,Empresa Brasileira de Assistência Técnica e Extensão Rural
+11,81000,"Ministério da Mulher, Família e Direitos Humanos - Unidades com vínculo direto"
+12,81901,Fundo Nacional para a Criança e o Adolescente
+13,81902,Fundo Nacional do Idoso
+14,82000,Ministério da Segurança Pública - Unidades com vínculo direto
+0,83000,MINISTERIO POVOS INDIGENAS - Unidades com vínculo direto
+1,84000,MINISTERIO DOS POVOS INDIGENAS - Unidades com vínculo direto
+2,90000,Reserva de Contingência
+3,91000,Entidades que utilizam conta única - TCT - Unidades com vínculo direto
+4,91001,Governo do Distrito Federal - DAR - Unidades com vínculo direto
+5,91002,Prefeitura de São Luis - DAR - Unidades com vínculo direto
+6,91010,Estatais do Ministério da Fazenda 
+7,91080,Estatais do Ministério das Minas e Energia
+8,91081,Empresas de Energia
+9,91082,Empresas de Telecomunicações
+10,91083,Companhia Vale do Rio Doce
+11,91084,Petrobrás - Holding
+12,91090,Estatais do Ministério dos Transportes
+13,91100,Justiças Estaduais - Processos Judiciais  - Unidades com vínculo direto
+14,91214,Autoridade Pública Olímpica
+0,91700,ORGANISMOS INTERNACIONAIS - Unidades com vínculo direto
+1,91800,Organizações Sociais - Unidades com vínculo direto
+2,91900,Empresa Privada - Unidades com vínculo direto
+3,92001,Município de Goianésia - Unidades com vínculo direto
+4,93000,Região Norte
+5,93120,Estado do Acre
+6,93220,Estado do Amapá
+7,93320,Estado do Amazonas
+8,93420,Estado do Pará
+9,93520,Estado de Rondônia 
+10,93620,Estado de Roraima
+11,93720,Estado de Tocantins
+12,94000,Região Nordeste
+13,94120,Estado do Maranhão
+14,94220,Estado do Piauí
+0,94320,Estado do Ceará
+1,94420,Estado do Rio Grande do Norte
+2,94520,Estado da Paraíba
+3,94620,Estado de Pernambuco
+4,94720,Estado das Alagoas
+5,94820,Estado de Sergipe
+6,94920,Estado da Bahia
+7,95000,Região Sudeste
+8,95120,Estado de Minas Gerais
+9,95220,Estado do Espírito Santo
+10,95320,Estado do Rio de Janeiro
+11,95420,Estado de São Paulo
+12,96000,Região Sul
+13,96120,Estado do Paraná
+14,96220,Estado de Santa Catarina
+0,96320,Estado do Rio Grande do Sul
+1,97000,Região Centro-Oeste
+2,97120,Estado do Mato Grosso do Sul
+3,97220,Estado do Mato Grosso
+4,97320,Estado de Goiás
+5,97400,Distrito Federal
+6,99900,República Federativa do Brasil - Unidades com vínculo direto
